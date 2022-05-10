@@ -1,0 +1,15 @@
+.team div div p.member-name{
+    font-weight: bold;
+    font-size: 34px;
+}
+.team div div p.member-job{
+    font-size: 22px;
+    color: #858585;
+}
+.team div div p.member-social-media{
+    font-size: 20px;
+    color: #c1c1c1;
+}
+.team .card{
+    border: none !important;
+}

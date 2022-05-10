@@ -15,3 +15,13 @@ width: 150PX;
 .navbar-nav-custom li a.dropdown-toggle::after {
     vertical-align: 2px;
 }
+@media screen and (max-width:991px) {
+  .navbar{
+    padding: 0.5rem 0 !important;
+  }
+  .starter h1{
+    font-weight: 400;
+    font-size: 2.875rem !important;
+  }
+  
+}

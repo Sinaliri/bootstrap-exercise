@@ -1,4 +1,28 @@
-
-.mt-22{
-    margin-top: 5.5rem;
+.starter h1{
+    font-size: 62px;
+    display: block;
 }
+.starter{
+    margin-top: 160px;
+}
+.starter h5{
+
+    font-size:25px;
+    display: block;
+}
+.starter-btn button{
+   
+    font-size:26px;
+    transition: 0.3s linear;
+
+}
+@media screen and (max-width:991px) {
+    .navbar{
+      padding: 0.5rem 0 !important;
+    }
+    .starter h1{
+      font-weight: 400;
+      font-size: 2.875rem !important;
+    }
+    
+  }
