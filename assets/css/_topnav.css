@@ -1,0 +1,17 @@
+.btn-container{
+   width: 350px;
+}
+.btn-container button{
+    width: 150px;
+    padding: 10px;
+}
+.navbar-brand img{
+width: 150PX;
+}
+.nav-link {
+  font-size: 18px;
+  
+}
+.navbar-nav-custom li a.dropdown-toggle::after {
+    vertical-align: 2px;
+}
