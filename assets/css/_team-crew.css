@@ -13,3 +13,27 @@
 .team .card{
     border: none !important;
 }
+.view-more-btn{
+    font-size: 26px;
+    text-decoration: none;
+    
+}
+.view-more-btn:hover{
+    text-decoration: none;
+    
+}
+.team .card{
+    width: 12rem;
+}
+@media screen and (max-width: 990px){
+    .team .card{
+        width: 9rem !important;
+    }
+    .team div div p.member-name{
+        font-size: 22px;
+    }
+    .team div div p.member-job{
+        font-size: 18px;
+       
+    }
+}
