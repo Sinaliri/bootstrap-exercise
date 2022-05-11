@@ -1,6 +1,7 @@
 .starter h1{
     font-size: 62px;
     display: block;
+    color: #000;
 }
 .starter{
     margin-top: 160px;
@@ -9,6 +10,7 @@
 
     font-size:25px;
     display: block;
+    color: #000;
 }
 .starter-btn button{
    

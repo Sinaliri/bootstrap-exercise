@@ -1,0 +1,57 @@
+.values .values-text h1{
+    font-size: 3.5rem !important;
+}
+.values .values-text h5{
+    font-size: 1.75rem !important;
+    line-height: 50px;
+    color: rgb(174, 174, 174);
+}
+.values .values-icon{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto;
+}
+.values .values-icon div span{
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 1rem;
+    color: rgba(24, 24, 24, 0.649);
+}
+@media screen and (max-width:991px) {
+    .values .values-icon{
+        margin-left: 2rem;
+    }
+    .values .values-icon div{
+        display: table;
+        flex-direction: column;
+        justify-content: space-around;
+        margin: 2rem !important;
+
+    }
+    .values .values-icon div img{
+        width: fit-content;
+
+    }
+    .values .values-icon div span{
+        display: block;
+        margin-left: 10PX;
+        margin-top: 0.5rem ;
+    }
+    .values .values-icon div:nth-child(even) img{
+        margin-left: 20px;
+    }
+    .values .values-icon div:nth-child(6) span{
+        margin-left: 0px;
+    }
+    .values .values-icon div:nth-child(2) span{
+        margin-left: 20px;
+    }
+    /* .col-md-12{
+        flex: 0 0 40% !important;
+    } */
+    @media screen and (max-width:448px){
+        .values .values-text h1{
+            font-size: 2rem !important;
+        }
+    }
+}
