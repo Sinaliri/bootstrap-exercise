@@ -1,0 +1,33 @@
+.work .work-text h1{
+    font-size: 3.5rem !important;
+}
+.work .work-text h5{
+    font-size: 1.75rem !important;
+    line-height: 50px;
+    color: rgb(174, 174, 174);
+}
+.work .work-text button{
+    background-color: var(--btn-color);
+    color: #fff;
+    font-size:  1.5rem;
+    padding: 10px 80px;
+}
+.work-icon p img{
+    width: 5rem;
+}
+.work-icon p {
+    font-size: 1.72rem;
+}
+@media screen and (max-width:768px){
+
+.work-icon p {
+    font-size: 1.1rem;
+}
+}
+@media screen and (max-width:992px){
+    .work .work-text h1 , .work .work-text h5{
+        text-align: center;
+    }
+
+
+    }

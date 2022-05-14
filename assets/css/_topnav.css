@@ -15,6 +15,19 @@ width: 150PX;
 .navbar-nav-custom li a.dropdown-toggle::after {
     vertical-align: 2px;
 }
+.login-btn{
+background-color: transparent;
+border-color: var(--btn-color);
+color: var(--btn-color);
+}
+.login-btn:hover{
+  background-color: var(--btn-color);
+  color: #fff;
+}
+.signup-btn{
+  background-color: var(--btn-color);
+  color: #fff;
+}
 @media screen and (max-width:991px) {
   .navbar{
     padding: 0.5rem 0 !important;
