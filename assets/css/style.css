@@ -3,6 +3,7 @@
 @import url("./_team-crew.css");
 @import url("./_values.css");
 @import url("./_work.css");
+@import url("./_investors.css");
 @font-face {
     font-family: Tiampos ;
     src: url("/assets/font/KFOmCnqEu92Fr1Mu4mxK.woff2"), format("woff2");
@@ -25,4 +26,12 @@ ul.ol,li{
 }
 :root{
     --btn-color:rgb(81, 0, 128);
+}
+.title{
+    font-size: 3.5rem !important;
+}
+.description{
+    font-size: 1.75rem !important;
+    line-height: 50px;
+    color: rgb(174, 174, 174);
 }
