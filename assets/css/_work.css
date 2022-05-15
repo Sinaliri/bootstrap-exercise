@@ -31,3 +31,15 @@
 
 
     }
+.investors-images div .card{
+    border: none;
+}
+.investors-images div .card .card-body .member-name{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.investors-images div .card .card-body .member-job{
+    font-size: 15px;
+    font-weight: bold;
+    color: #a3a3a3;
+}

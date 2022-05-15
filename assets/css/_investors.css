@@ -1,7 +1,8 @@
 .investors-logos div img{
-    width: 10rem;
+    width: 12rem;
     margin-right: 20px;
 }
-.investors-logos div{
-    justify-content: space-between;
+.investors-logos .investors-logos-img{
+    grid-template-columns: auto auto auto;
+    gap: 40px;
 }
