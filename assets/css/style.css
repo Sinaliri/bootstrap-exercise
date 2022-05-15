@@ -5,6 +5,7 @@
 @import url("./_work.css");
 @import url("./_investors.css");
 @import url("./_press.css");
+@import url("./_global.css");
 @font-face {
     font-family: Tiampos ;
     src: url("/assets/font/KFOmCnqEu92Fr1Mu4mxK.woff2"), format("woff2");

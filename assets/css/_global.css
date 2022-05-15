@@ -1,0 +1,11 @@
+.global-card .card-title{
+    font-size: 1.5rem;
+    color: #000;
+}
+.global-card .card-desc{
+    font-size: 1.2rem;
+    color: #727272;
+}
+.global-card .card{
+    border: none;
+}
