@@ -1,0 +1,8 @@
+.media{
+    .media{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.media img{
+   width: 12rem;
+}
