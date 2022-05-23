@@ -1,0 +1,41 @@
+.mailbox{
+    top: 0;
+    margin: auto;
+}
+.mailbox-wrapper{
+   background-image: url('../img/wave.svg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment:inherit;
+}
+.mailbox .mailbox-input form .input-group-text{
+
+    background-color: transparent;
+    border-right: none;
+    border-color: black;
+    font-size: 1.75rem;
+    color: black;
+}
+.mailbox .mailbox-input form .form-control{
+    border-left: none !important;
+    font-size: 1.25rem!important;
+    border-color: black;
+    background-color: transparent;
+    line-height: 2.5;
+  
+}
+.mailbox .mailbox-input form .form-control:focus{
+    box-shadow: none;
+}
+.mailbox .mailbox-input form .form-control::-webkit-input-placeholder{
+    color: black;
+    font-weight: lighter;
+    font-size: 1.25rem;
+}
+.mailbox .mailbox-input form button{
+    line-height: 2.4;
+    border: none;
+}
+.mail-help{
+    font-size: 16px;
+}

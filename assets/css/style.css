@@ -6,6 +6,7 @@
 @import url("./_investors.css");
 @import url("./_press.css");
 @import url("./_global.css");
+@import url("./_mailbox.css");
 @font-face {
     font-family: Tiampos ;
     src: url("/assets/font/KFOmCnqEu92Fr1Mu4mxK.woff2"), format("woff2");
@@ -30,7 +31,7 @@ ul.ol,li{
     --btn-color:rgb(81, 0, 128);
 }
 .title{
-    font-size: 3.5rem !important; 
+    font-size: 3rem !important; 
     color: #000;
 }
 .description{
