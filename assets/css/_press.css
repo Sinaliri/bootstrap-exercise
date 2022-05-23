@@ -2,6 +2,23 @@
     display: grid;
     grid-template-columns: auto auto auto;
 }
-.media img{
-   width: 12rem;
-}
+.media p img{
+    width: 12rem;
+
+ }
+ @media screen and (min-width:993px){
+    .media p img{
+        width: 10rem;
+     }
+
+    }
+ /* @media screen and (max-width:1176px){
+    .media p img{
+        width: 8rem;
+     }
+    }
+@media screen and (min-width:1177px){
+        .media p img{
+            width: 12rem;
+         }
+}  */
