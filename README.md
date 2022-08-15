@@ -1,5 +1,5 @@
 # bootstrap-exercise
-landing page onjuono clone
+landing page
 <br/>
 Bootstrap JQuery Css Html 
 AOS plugin
