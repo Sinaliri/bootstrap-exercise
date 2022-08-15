@@ -1,0 +1,15 @@
+.footer div h5{
+   
+    font-weight: bold;
+   
+}
+.footer div a{
+    color: gray;
+    margin-bottom: 5px;
+    text-decoration: none;
+    transition: margin-left 0.25s linear;
+}
+.footer div a:hover{
+    margin-left: 10px;
+    color: rgba(81, 81, 225, 0.807);
+}

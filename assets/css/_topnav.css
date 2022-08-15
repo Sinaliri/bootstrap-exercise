@@ -12,6 +12,9 @@ width: 150PX;
   font-size: 18px;
   
 }
+.navbar-custom{
+  box-shadow: 2px 2px 15px #959595;
+}
 .navbar-nav-custom li a.dropdown-toggle::after {
     vertical-align: 2px;
 }

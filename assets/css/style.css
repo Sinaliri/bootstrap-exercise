@@ -7,6 +7,7 @@
 @import url("./_press.css");
 @import url("./_global.css");
 @import url("./_mailbox.css");
+@import url("./_footer.css");
 @font-face {
     font-family: Tiampos ;
     src: url("/assets/font/KFOmCnqEu92Fr1Mu4mxK.woff2"), format("woff2");
